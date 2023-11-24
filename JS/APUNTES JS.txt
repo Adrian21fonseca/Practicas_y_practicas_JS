@@ -1,0 +1,96 @@
+Fcha de inicio:         24/11/2023
+
+dia 1 -----  24/Nov
+
+
+Glosario 
+
+. Script:                  Programas, aplicaciones o trozos de codigo
+. Sentecncia:              cada una de las instrucciones que forma un Script
+. Palabras reservadas:     lo que usamos para construir sentencias, NO podemos usalarlas libremente
+
+               break, case, catch, continue, desfault, delate, do, else, finally, for
+               function, if, in, instanceof, new, return, switch, this, throw, try
+               typeof, var, void, while, with.
+
+
+Sintaxis
+
+. No importan los espacios en blancos ni las nuevas lineas
+. Sre distinguen mayusculas 
+. No define el tipo de variables 
+. No es necesario terminar cada sentencia con ";" (Pero se recomienda)
+. Permite comentarios
+
+
+                            //esto es un comentario
+                     
+                            /*
+                               esto tambien es un comentario  
+                            /*
+
+                           
+                            alert('Hola!')
+
+
+Limitaciones 
+
+. entorno limitado para las ejecucion del Script(s)
+. no se pueden ccomunicar con los recursos que no pertenezcan al mismo dominio 
+. no pueden cerrar ventanas que no hayan abierto 
+. no puede acceder a los archivos del ordenador (lectura ni escritura)
+. no pueden modificar las preferencias de navegador 
+
+Eexisten formas de saltar las limitaciones
+Ej: firmar digitalmente el script y de pedir permiso al usuario para realizar wsas acciones
+
+
+JavaScript en otros lugares 
+
+. Servidores
+. Adove Acrobat js en PDFS
+. Photoshop
+. Muchas aplicaciones mas
+
+Variables 
+  
+
+   - Nos permite almacenar un valor
+   - el numero PI = 3.1415123.....
+
+
+ Sin variables No podriamos hacer Scripts realmente utiles
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
