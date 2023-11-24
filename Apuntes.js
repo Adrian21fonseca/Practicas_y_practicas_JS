@@ -4,7 +4,7 @@
     esto tambien es un comentario  
 */
 
-alert('Hola!');
+alert('Hola! este es un mensaje de prueba que saldra cada que refrezque la pagina... Proceda a darle en el boton "aceptar" (ninguno de sus datos sera revelado nadie ageno a usted)');
 
 // VARIABLES
 // Sumando dos numeros 
@@ -34,3 +34,7 @@ var residuo = numero1 % numero2;
 //var _number;
 //var $otherNumber;
 //var $_a_asd;
+
+var num = 100;
+
+num = 'hola';
