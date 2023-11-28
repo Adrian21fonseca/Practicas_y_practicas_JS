@@ -38,3 +38,5 @@ var residuo = numero1 % numero2;
 var num = 100;
 
 num = 'hola';
+
+console.log(pi);
